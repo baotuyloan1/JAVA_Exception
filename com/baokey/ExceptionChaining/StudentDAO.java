@@ -8,6 +8,10 @@ public class StudentDAO {
     try {
       DatabaseUtils.executeQuery("SELECT");
     } catch (SQLException e) {
+/**
+ * nếu không truyền SQLException vào DAOException it’s hard to detect bugs exactly as the truth is hidden.
+ * nên là các chain exceptions nó phải liên tục cùng nhau
+ */
       throw new DAOException("Error quering students from database", e);
     }
   }
