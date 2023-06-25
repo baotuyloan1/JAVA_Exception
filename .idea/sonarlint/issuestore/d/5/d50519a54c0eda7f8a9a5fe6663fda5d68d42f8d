@@ -1,0 +1,14 @@
+
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(¯œ™¸ıÿÿÿÿ8ØÛ†Ë1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è¯ÔÆÿÿÿÿÿ8Ø¯ûÊ1
+d
+java:S2095("HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ò¹ˆ;8òÛ†Ë1
+Z
+java:S1854$"8Remove this useless assignment to local variable "item".(¤úÚûÿÿÿÿ8ôÛ†Ë1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ8öÛ†Ë1
+K
+java:S1481$")Remove this unused "item" local variable.(¤úÚûÿÿÿÿ8÷Û†Ë1
+W
+java:S18541":Remove this useless assignment to local variable "newAge".(«ı²©8à¯ûÊ1
+H
+java:S14811"+Remove this unused "newAge" local variable.(«ı²©8ã¯ûÊ1

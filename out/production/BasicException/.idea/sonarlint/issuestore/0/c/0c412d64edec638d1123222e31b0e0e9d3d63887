@@ -1,0 +1,44 @@
+
+g	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ƒϊχή1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡όΔΡ8ƒϊχή1
+p
+java:S2095t"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Νεύÿÿÿÿ8“ϊχή1
+q
+java:S2095•"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Νεύÿÿÿÿ8“ϊχή1
+k
+java:S2095§"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(§ΥΓ½8“ϊχή1
+k
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(§ΥΓ½8“ϊχή1
+q
+java:S2095­"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Νεύÿÿÿÿ8“ϊχή1
+j
+java:S2095n"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(§ΥΓ½8“ϊχή1
+k
+java:S2095@"NUse try-with-resources or close this "LineNumberReader" in a "finally" clause.(ΙΌά8“ϊχή1
+`
+java:S2166;"CRename this class to remove "Exception" or correct its inheritance.(ζΞ²8“ϊχή1
+a
+java:S2147G"DCombine this catch with the one at line 69, which has the same body.(Γτώ•8“ϊχή1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ρ—Έ½ϊÿÿÿÿ8“ϊχή1
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ρ—Έ½ϊÿÿÿÿ8£ϊχή1
+]	java:S125\"<This block of commented-out lines of code should be removed.(ρ¥ωψÿÿÿÿ8’­ί1
+>
+java:S5542k"Use a secure padding scheme.(χΘέÿψÿÿÿÿ8£ϊχή1
+l
+java:S2674p"JCheck the return value of the "read" call to see how many bytes were read.(ητ‚ώÿÿÿÿ8£ϊχή1
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(Δΐ‡ΐÿÿÿÿÿ8£ϊχή1
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(ÿ«‘ÿÿÿÿÿ8£ϊχή1
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ώςΣ8£ϊχή1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ψή²8£ϊχή1
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(δ³Εϊ8¨ϊχή1
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(Ρ£»ϋÿÿÿÿ8¨ϊχή1
+?
+java:S5542"Use a secure padding scheme.(χΘέÿψÿÿÿÿ8¨ϊχή1
+m
+java:S2674‘"JCheck the return value of the "read" call to see how many bytes were read.(ητ‚ώÿÿÿÿ8¨ϊχή1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Πΰυωÿÿÿÿ8χ«ί1
+?
+java:S5542¤"Use a secure padding scheme.(χΘέÿψÿÿÿÿ8¨ϊχή1
+m
+java:S2674©"JCheck the return value of the "read" call to see how many bytes were read.(ητ‚ώÿÿÿÿ8¨ϊχή1
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(Πΰυωÿÿÿÿ8¶Δ«ί1
